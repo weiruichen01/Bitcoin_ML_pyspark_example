@@ -15,3 +15,7 @@ done
 
 # > will redirect data from left hand side to a text file
 # put file name on the right hand side of >
+
+#to execute shell script, you will need to copy and paste the code into a text file and save
+#to execute the shell script, simply sh <your_file_name>
+#if execution permission is needed, use chmod +x <your_file_name>
